@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mapTypeNormal"
+        android:title="Normal"/>
+    <item
+        android:id="@+id/mapTypeSatellite"
+        android:title="Satellite"/>
+    <item
+        android:id="@+id/mapTypeTerrain"
+        android:title="Terrain"/>
+    <item
+        android:id="@+id/mapTypeHybrid"
+        android:title="Hybrid"/>
+    <item
+        android:id="@+id/mapTypeNone"
+        android:title="None"/>
+    <!--
+    <item
+        android:id="@+id/city_seattle"
+        android:showAsAction="always"
+        android:title="@string/seattle"/>
+    <item
+        android:id="@+id/city_newyork"
+        android:showAsAction="ifRoom"
+        android:title="@string/newyork"/>
+    <item
+        android:id="@+id/city_sydney"
+        android:showAsAction="ifRoom"
+        android:title="@string/sydney"/>
+    -->
+
+
+</menu>
